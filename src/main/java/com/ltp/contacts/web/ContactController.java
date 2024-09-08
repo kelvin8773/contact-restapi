@@ -27,7 +27,7 @@ import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import io.swagger.v3.oas.annotations.tags.Tag;
 
-@Tag(name = "Contact Contraller", description = "Create and retrieve contacts")
+@Tag(name = "Contact Controller", description = "Create and retrieve contacts")
 @RestController
 public class ContactController {
 
